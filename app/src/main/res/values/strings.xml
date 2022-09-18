@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WhatsUp</string>
+    <string name="click_for_sign_up">Click for Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="whats_up_image">Whats Up Image</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="sign_up_with_phone">Sign Up with Phone</string>
+    <string name="username">Username</string>
+    <string name="email_id">Email Id</string>
+    <string name="loadingwait">Loading Please Wait</string>
+
+</resources>
